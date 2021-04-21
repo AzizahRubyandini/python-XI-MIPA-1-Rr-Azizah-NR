@@ -25,7 +25,7 @@ member_vokal_grup3 = Member_Vokal_Grup("Ten", 25, "Bangkok")
 # Membuat objek keempat dari kelas Member Vokal Grup
 member_vokal_grup4 = Member_Vokal_Grup("Ruby", 17, "Yogyakarta")
 # Membuat objek kelima dari kelas Member Vokal Grup
-member_vokal_grup5 = Member_Vokal_Grup("Misell", 16, "Surabaya")
+member_vokal_grup5 = Member_Vokal_Grup("Misellia", 16, "Surabaya")
  
 member_vokal_grup1.tampilkan_profil()
 member_vokal_grup2.tampilkan_profil()
